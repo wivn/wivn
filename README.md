@@ -1,6 +1,13 @@
-### Hi there 👋
+### Hi! I'm a third year Computer Science student at Queen's University!
 
-<!--
+- I love creating software and I've been doing it for years now. A lot of my side projects focus on personal productivity because I enjoy building productivity software that I can use myself!
+
+- I've worked as a Software Developer Intern in the past and I'm looking for roles starting Summer 2023!
+
+- I've built projects before using JavaScript, Python, C# and Java. In doing so I've learned React, Django, and other web technologies.
+
+- I'm currently learning more about AI and data analytics, especially as it relates to NLP (natural language processing).
+ <!--
 **wivn/wivn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
