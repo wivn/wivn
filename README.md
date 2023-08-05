@@ -1,8 +1,8 @@
-### Hi! I'm a third year Computer Science student at Queen's University!
+### Hi! I'm a fourth year Computer Science student at Queen's University graduating May 2024!
 
 - I love creating software and I've been doing it for years now. A lot of my side projects focus on personal productivity because I enjoy building productivity software that I can use myself!
 
-- I've worked as a Software Developer Intern in the past and I'm looking for roles starting Summer 2023!
+- I've worked as a Software Developer Intern in the past and I'm looking for New Grad roles!
 
 - I've built projects before using JavaScript, Python, C# and Java. In doing so I've learned React, Django, and other web technologies.
 
