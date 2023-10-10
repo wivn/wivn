@@ -1,12 +1,13 @@
-### Hi! I'm a fourth year Computer Science student at Queen's University graduating May 2024!
+### Hi! I'm a fourth year Computer Science student at Queen's University!
 
 - I love creating software and I've been doing it for years now. A lot of my side projects focus on personal productivity because I enjoy building productivity software that I can use myself!
 
-- I've worked as a Software Developer Intern in the past and I'm looking for New Grad roles!
+- I most recently worked as a Software Developer Intern at Squarepoint Capital where I focused on web applications and data pipelines. My prior internship experience also includes working on REST APIs and technical communication.
 
-- I've built projects before using JavaScript, Python, C# and Java. In doing so I've learned React, Django, and other web technologies.
+- I've built projects before using JavaScript, Python, C# and Java. In doing so I've learned React, Django, and other web technologies. In addition, I have strong data analysis and machine learning skills which I've built up through personal projects and my coursework.
 
-- I'm currently learning more about AI and data analytics, especially as it relates to NLP (natural language processing).
+- Feel free to reach out to me on LinkedIn!
+
  <!--
 **wivn/wivn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
