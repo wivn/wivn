@@ -1,8 +1,7 @@
-### Hi! I'm a fourth year Computer Science student at Queen's University!
+### Hi!
 
-- I love creating software and I've been doing it for years now. A lot of my side projects focus on personal productivity because I enjoy building productivity software that I can use myself!
-
-- I most recently worked as a Software Developer Intern at Squarepoint Capital where I focused on web applications and data pipelines. My prior internship experience also includes working on REST APIs and technical communication.
+- I currently work as a Software Developer at Squarepoint Capital on the Data Engineering team where I focus on building internal tooling including data pipelines and full-stack web applications. 
+- My prior internship experience also includes working on building REST APIs and writing technical communication.
 
 - I've built projects before using JavaScript, Python, C# and Java. In doing so I've learned React, Django, and other web technologies. In addition, I have strong data analysis and machine learning skills which I've built up through personal projects and my coursework.
 
